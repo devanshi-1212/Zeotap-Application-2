@@ -1,0 +1,96 @@
+.body {
+  margin: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contain {
+  display: flex;
+  border: 3px solid rgb(88, 87, 84);
+  border-radius: 10px;
+  margin-bottom: 70px;
+  padding: 22px;
+}
+
+.city-input {
+  width: 200px;
+  height: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+.city-submit-btn {
+  height: 32px;
+  width: 90px;
+  font-size: 15px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  background-color: rgb(41, 40, 38);
+  color: rgb(255, 255, 255);
+}
+
+.city-item {
+  font-size: 16px;
+  margin-right: 100px;
+  border-right: 3px solid rgba(150, 142, 142, 0.458);
+  padding-right: 50px;
+}
+
+.temp-change {
+  display: flex;
+}
+
+.tempunit-option-select {
+  height: 40px;
+  width: 100px;
+  font-size: 15px;
+  border-width: 2px;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.list-item {
+  margin-bottom: 15px;
+}
+
+.summary-btn {
+  height: 34px;
+  width: 175px;
+  font-size: 15px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  background-color: rgb(41, 40, 38);
+  color: rgb(255, 255, 255);
+}
+
+.thres-input {
+  width: 100px;
+  height: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  padding: 10px;
+  margin-right: 30px;
+}
+
+.thres-option-select {
+  height: 35px;
+  width: 100px;
+  font-size: 15px;
+  border-width: 2px;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 5px;
+}
+
+.alert-btn {
+  height: 32px;
+  width: 90px;
+  font-size: 15px;
+  border-radius: 15px;
+  background-color: rgb(41, 40, 38);
+  color: rgb(255, 255, 255);
+}
