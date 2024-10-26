@@ -1,6 +1,9 @@
 # Zeotap Intern Assignment - Application 2
 ## Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
+## Walkthrough:
+https://github.com/user-attachments/assets/22b5ae0b-2eb8-4dde-af84-de4c83a4120b
+
 ## Features:
 - Created a real-time data processing system to monitor weather conditions and provide summarized insights using rollups and aggregates.
 - Facilitates real-time weather updates for user-given cities by updating data every 5 minutes.
