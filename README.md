@@ -8,6 +8,7 @@ https://github.com/user-attachments/assets/22b5ae0b-2eb8-4dde-af84-de4c83a4120b
 - Created a real-time data processing system to monitor weather conditions and provide summarized insights using rollups and aggregates.
 - Facilitates real-time weather updates for user-given cities by updating data every 5 minutes.
 - Provides daily summaries such as minimum temperature, maximum temperature and dominant weather for each city.
+- Dominant weather is chosen as the most frequent weather type for the city in a day, for example: if for Delhi, "Haze" has the most frequency in a day, so dominant weather for that day will be "Haze".
 - Alerts user when threshold is breached, as configured by user.
 - Simple UI for user readability.
 
