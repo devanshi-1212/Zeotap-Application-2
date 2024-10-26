@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/22b5ae0b-2eb8-4dde-af84-de4c83a4120b
 - Dominant weather is chosen as the most frequent weather type for the city in a day, for example: if for Delhi, "Haze" has the most frequency in a day, so dominant weather for that day will be "Haze".
 - Alerts user when threshold is breached, as configured by user.
 - Simple UI for user readability.
+- Implemented error handling for incorrect city name.
 
 ## Technologies Used:
 - Frontend: ReactJS, CSS
